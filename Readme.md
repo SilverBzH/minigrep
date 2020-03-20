@@ -12,4 +12,5 @@ Cargo build
 Cargo run arg1 arg2 
 ```
 arg1: pattern you are looking for
-arge2: file
+
+arg2: file
