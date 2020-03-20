@@ -1,12 +1,12 @@
-*** Setup 
+**Setup**
 First, be sure you have Rust installed in your machine. 
 To install Rust, please refer to the official doc: https://www.rust-lang.org/
 
-*** Build
+**Build**
 ```
 Cargo build
 ```
-*** Run
+**Run**
 ```
 Cargo run arg1 arg2 
 ```
